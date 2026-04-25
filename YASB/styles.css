@@ -533,7 +533,6 @@
 	background-color: var(--bg);
 	font-family: "GoMono Nerd Font";
 	color: var(--Text);
-	border: 0px solid var(--Text);
     border: 1px solid var(--border);
     border-radius: 8px;
  
